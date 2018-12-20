@@ -4,7 +4,7 @@
 
 OVERVIEW
 --------------------------------------------------
-This is an implementation of a chess game for the [Object Oriented Programming][POO] course. The purpose of this project was to develop a chess game using the Java language programming and applying Object Oriented concepts along with `Design Patterns` and `Model-View-Controller` (MVC) architectural pattern. It was made at the Computer Science undergraduate program from University of São Paulo (ICMC - USP).
+This is an implementation of a chess game for the [Object Oriented Programming] course. The purpose of this project was to develop a chess game using the Java language programming and applying Object Oriented concepts along with `Design Patterns` and `Model-View-Controller` (MVC) architectural pattern. It was made at the Computer Science undergraduate program from University of São Paulo (ICMC - USP).
 
 The Design Patterns that were used are: `Singleton`, `Observer`, `Factory` and `Mediator`.
 
