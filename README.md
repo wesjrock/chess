@@ -29,14 +29,14 @@ OPTIONS
 --------------------------------------------------
 ![Screenshot 2](img/img2.png)
 ```bash
-  * Exit       (Ctrl + W)
-  * New Game   (Ctrl + N)
-  * Undo       (Ctrl + O)
-  * Redo       (Alt + R)
-  * Save game  (Ctrl + S)
-  * Save as    (Shift + S)
-  * Load game  (Ctrl + C)
-  * Load as    (Shift + C)
+ * Exit       (Ctrl + W)
+ * New Game   (Ctrl + N)
+ * Undo       (Ctrl + O)
+ * Redo       (Alt + R)
+ * Save game  (Ctrl + S)
+ * Save as    (Shift + S)
+ * Load game  (Ctrl + C)
+ * Load as    (Shift + C)
 ```
 
 MORE INFO
