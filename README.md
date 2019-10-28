@@ -8,6 +8,14 @@ This is an implementation of a chess game for the [Object Oriented Programming] 
 
 The Design Patterns that were used are: `Singleton`, `Observer`, `Factory` and `Mediator`.
 
+HOW TO PLAY WITHOUT COMPILING
+--------------------------------------------------
+```bash
+  1. Clone or download repository
+  2. Go to the folder `xadrez2d`
+  3. Open `xadrez2d.jar` file
+```
+
 HOW TO COMPILE
 --------------------------------------------------
 
